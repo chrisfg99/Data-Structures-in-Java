@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListMap()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ ListMap\n
+comment1.params=k\ v
+comment1.target=java.lang.Object\ put(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Put\ a\ key-value\ pair\ entry\ into\ the\ map.\ Keys\ and\ values\ may\ be\ arbitrary\ objects.\n\ If\ there\ exist\ and\ entry\ with\ the\ specified\ key,\ over-write\ it,\ but\ return\ the\n\ old\ value.\ Otherwise,\ return\ null.\n\ \n\ @param\ k\ key\n\ @param\ v\ value\n\ @return\ old\ value\ or\ null\n
+comment2.params=k
+comment2.target=java.lang.Object\ get(java.lang.Object)
+comment2.text=\n\ Returns\ the\ value\ associated\ with\ the\ key\ k\ in\ the\ map,\ if\ an\ entry\ exists.\ \n\ Returns\ null\ if\ that\ map\ contains\ no\ entry\ with\ key\ k.\n\ \n\ @param\ k\ key\n\ @return\ value\ associated\ with\ k,\ or\ null\n
+comment3.params=k
+comment3.target=java.lang.Object\ remove(java.lang.Object)
+comment3.text=\n\ Not\ implemented\!\n
+numComments=4

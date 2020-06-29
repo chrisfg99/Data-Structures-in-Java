@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LinkedList()
+comment0.text=\n\ Construct\ a\ new\ empty\ list\n
+comment1.params=node
+comment1.target=void\ addFirst(ListNode)
+comment1.text=\n\ Add\ a\ new\ item\ as\ the\ first\ element\n\ @param\ ListNode\ node\n
+comment2.params=
+comment2.target=ListNode\ removeFirst()
+comment2.text=\n\ Remove\ the\ first\ list\ item\n
+numComments=3

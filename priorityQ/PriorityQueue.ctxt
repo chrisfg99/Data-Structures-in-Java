@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PriorityQueue()
+comment1.params=k\ x
+comment1.target=void\ insert(int,\ java.lang.Object)
+comment2.params=
+comment2.target=Entry\ removeMin()
+comment3.params=
+comment3.target=boolean\ isEmpty()
+comment4.params=
+comment4.target=int\ size()
+numComments=5

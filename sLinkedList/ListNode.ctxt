@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=data\ next
+comment0.target=ListNode(java.lang.Object,\ ListNode)
+comment0.text=\n\ Construct\ a\ new\ node\ with\ the\ given\ data\ and\ pointer\n\ @param\ Object\ data\n\ @param\ ListNode\ next\n
+comment1.params=node
+comment1.target=void\ setNext(ListNode)
+comment1.text=\n\ Set\ the\ next\ node\ to\ be\ the\ given\ node\n\ @param\ ListNode\ node\n
+comment2.params=
+comment2.target=ListNode\ getNext()
+comment2.text=\n\ Get\ the\ next\ node\n\ @return\ the\ next\ ListNode\n
+numComments=3
