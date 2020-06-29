@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DoublyLinkedList()
+comment1.params=b\ n
+comment1.target=void\ addAfter(ListNode,\ ListNode)
+comment2.params=n
+comment2.target=void\ remove(ListNode)
+comment3.params=n
+comment3.target=void\ addFirst(ListNode)
+comment4.params=n
+comment4.target=void\ addLast(ListNode)
+comment5.params=
+comment5.target=ListNode\ removeFirst()
+comment6.params=
+comment6.target=ListNode\ removeLast()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Vertex
+comment0.text=\r\n\ A\ class\ to\ create\ a\ vertex\ that\ will\ hold\ a\ value\ for\ a\ graph\r\n\r\n\ 184521\r\n
+comment1.params=vertexName
+comment1.target=Vertex(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ the\ vertex\ class\ that\ takes\ a\ single\ value\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Returns\ the\ value/name\ of\ the\ vertex\r\n
+comment3.params=vertex
+comment3.target=void\ setName(java.lang.String)
+comment3.text=\r\n\ Sets\ the\ value/name\ of\ the\ vertex\ to\ a\ new\ one\r\n
+numComments=4

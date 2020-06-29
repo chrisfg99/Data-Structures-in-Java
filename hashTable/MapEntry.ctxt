@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MapEntry()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ MapEntry\n
+comment1.params=k\ v
+comment1.target=MapEntry(java.lang.Object,\ java.lang.Object)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MapEntry.\ Builds\ a\ map\ entry\ with\ \n\ the\ specified\ key\ and\ value.\n\ \n\ @param\ k\ key\n\ @param\ v\ value\n
+comment2.params=
+comment2.target=java.lang.Object\ getKey()
+comment2.text=\n\ Get\ the\ key\ of\ the\ entry.\n\ \n\ @return\ the\ key\n
+comment3.params=
+comment3.target=java.lang.Object\ getVal()
+comment3.text=\n\ Get\ the\ value\ of\ the\ entry\n\ \n\ @return\ the\ value\n
+numComments=4

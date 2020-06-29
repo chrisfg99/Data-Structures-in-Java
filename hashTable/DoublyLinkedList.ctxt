@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DoublyLinkedList()
+comment1.params=b\ n
+comment1.target=void\ addAfter(ListNode,\ ListNode)
+comment10.params=
+comment10.target=ListNode\ next()
+comment11.params=
+comment11.target=void\ remove()
+comment2.params=n
+comment2.target=void\ remove(ListNode)
+comment3.params=n
+comment3.target=void\ addFirst(ListNode)
+comment4.params=n
+comment4.target=void\ addLast(ListNode)
+comment5.params=
+comment5.target=void\ removeFirst()
+comment6.params=
+comment6.target=void\ removeLast()
+comment7.params=
+comment7.target=int\ size()
+comment8.params=
+comment8.target=java.util.Iterator\ iterator()
+comment8.text=\n\ Constructs\ an\ iterator\ over\ list\ nodes\ in\ the\ doubly\ linked\ list.\ \n\ Supports\ methods\ for\ iterating\ through\ the\ nodes.\n\ \n\ @return\ iterator\ over\ ListNode\ objects\n
+comment9.params=
+comment9.target=boolean\ hasNext()
+numComments=12

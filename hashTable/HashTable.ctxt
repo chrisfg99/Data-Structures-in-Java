@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=capacity
+comment0.target=HashTable(int)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ HashTable\n\ \n\ @param\ capacity\ integer\ size\ of\ the\ bucket\ array\n
+comment1.params=key\ value
+comment1.target=java.lang.Object\ put(java.lang.String,\ java.lang.Object)
+comment1.text=\n\ Put\ a\ key\ value\ pair\ into\ the\ table.\n\ \n\ @param\ key\ \ \ a\ String\n\ @param\ value\ an\ Object\ associated\ with\ the\ key\n\ @return\ the\ value\ previously\ associated\ with\ key\ \n\ (or\ null\ if\ the\ hash\ table\ did\ not\ contain\ the\ key)\n
+comment2.params=key
+comment2.target=java.lang.Object\ get(java.lang.String)
+comment2.text=\n\ Get\ the\ value\ associated\ with\ a\ key.\ \n\ \n\ @param\ key\ a\ String\n\ @return\ the\ value\ associated\ with\ the\ key\ \n\ (or\ null\ if\ the\ hash\ table\ doesn't\ contain\ the\ key)\n
+comment3.params=key
+comment3.target=int\ hashFunction(java.lang.String)
+comment3.text=\n\ hashFunction\ maps\ a\ String\ to\ an\ integer\ within\ the\ range\ 0\ to\ capacity-1,\ \n\ where\ capacity\ is\ the\ size\ of\ the\ underlying\ bucket\ array.\n\ \n\ @param\ key\ a\ String\n\ @return\ an\ integer\ hash\n
+comment4.params=key
+comment4.target=int\ hashCode(java.lang.String)
+comment4.text=\n\ Method\ hashcode\ maps\ a\ String\ key\ to\ an\ integer\ code.\ The\ current\ \n\ implementation\ uses\ the\ polynomial\ accumulation\ method\ to\ generate\ \n\ a\ code.\ This\ method\ works\ well\ for\ String\ objects.\n\ \n\ @param\ key\ the\ String\ key\n\ @return\ the\ integer\ code\n
+comment5.params=code
+comment5.target=int\ compress(int)
+comment5.text=\n\ Method\ compress\ takes\ the\ hash\ code\ and\ transforms\ it\ to\ an\ integer\ \n\ in\ the\ range\ 0\ ..\ to\ capacity-1,\ where\ capacity\ is\ the\ size\ of\ the\ \n\ bucket\ array.\n\ \n\ @param\ code\ the\ uncompressed\ hash\ code\n\ @return\ an\ integer\ in\ the\ range\ 0\ to\ capacity-1,\ inclusive.\n
+numComments=6
