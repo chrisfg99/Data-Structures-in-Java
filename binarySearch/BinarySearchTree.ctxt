@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BinarySearchTree()
+comment0.text=\n\ Construct\ an\ empty\ binary\ search\ tree.\n
+comment1.params=keys
+comment1.target=BinarySearchTree(int[])
+comment1.text=\n\ Construct\ a\ binary\ search\ tree\ storing\ a\ set\ of\ integer\ 'keys'.\ Each\ integer\ i\ is\ stored\ as\ \n\ an\ entry\ of\ the\ form\ (i,true).\ \n\ \n\ @param\ keys\ an\ array\ of\ integers\ to\ be\ stored\ in\ the\ tree.\n
+comment2.params=key\ value
+comment2.target=java.lang.Object\ put(int,\ java.lang.Object)
+comment2.text=\n\ Insert\ a\ key-value\ entry\ into\ the\ tree.\ The\ method\ searches\ for\ an\ existing\ entry\ with\ \n\ key\ k\ and\ if\ found\ this\ is\ replaced\ by\ the\ new\ key-value\ entry.\ If\ the\ key\ is\ not\ found,\ the\n\ the\ new\ key-value\ entry\ is\ inserted\ into\ the\ tree.\n\ \n\ @param\ key\ the\ integer\ key\n\ @param\ value\ the\ value\n\ @return\ the\ old\ value\ or\ else\ null\n
+comment3.params=k\ node
+comment3.target=TreeNode\ treeSearch(int,\ TreeNode)
+comment3.text=\n\ Search\ for\ a\ given\ key\ in\ the\ binary\ search\ tree,\ starting\ from\ the\ given\ node.\ This\ \n\ private\ method\ is\ very\ useful\ for\ implementing\ the\ core\ operations\ of\ the\ binary\ search\ tree\n\ and\ ordered\ map\ ADTs.\ The\ method\ returns\ the\ last\ node\ reached\ in\ the\ search,\ whether\ or\ not\n\ the\ key\ was\ found.\n
+comment4.params=node
+comment4.target=java.lang.Integer\ getKey(TreeNode)
+comment4.text=\n\ Recover\ key\ from\ entry\ stored\ at\ node.\ This\ method\ is\ convenient\ to\ wrap\ up\ the\ casting\n\ needed\ because\ of\ the\ lack\ of\ generics.\ Note\:\ should\ do\ this\ with\ generics\!\n
+comment5.params=node
+comment5.target=java.lang.Object\ getVal(TreeNode)
+comment5.text=\n\ Recover\ value\ from\ entry\ stored\ at\ node.\ This\ method\ is\ convenient\ to\ wrap\ up\ the\ casting\n\ needed\ because\ of\ the\ lack\ of\ generics.\ Note\:\ should\ do\ this\ with\ generics\!\n
+numComments=6

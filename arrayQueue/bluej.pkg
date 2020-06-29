@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=379
+package.editor.width=642
+package.editor.x=419
+package.editor.y=245
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=854
+target1.editor.width=741
+target1.editor.x=0
+target1.editor.y=22
+target1.height=50
+target1.name=Queue
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=120
+target1.y=40

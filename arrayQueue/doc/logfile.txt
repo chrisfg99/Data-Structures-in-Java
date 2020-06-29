@@ -1,0 +1,24 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-source
+1.6
+-noindex
+-notree
+-nohelp
+-nonavbar
+-d
+/Users/billk/Work/Teaching/UG/Program Design/2011/seminars/arrayQueue/doc
+-classpath
+/Applications/BlueJ 3.0.2/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 3.0.2/BlueJ.app/Contents/Resources/Java/junit.jar:/Users/billk/Work/Teaching/UG/Program Design/2011/seminars/arrayQueue
+/Users/billk/Work/Teaching/UG/Program Design/2011/seminars/arrayQueue/Queue.java
+<---- end of javadoc command ---->
+Loading source file /Users/billk/Work/Teaching/UG/Program Design/2011/seminars/arrayQueue/Queue.java...
+/Users/billk/Work/Teaching/UG/Program Design/2011/seminars/arrayQueue/Queue.java:22: invalid method declaration; return type required
+    public ArrayQueue()
+           ^
+1 error

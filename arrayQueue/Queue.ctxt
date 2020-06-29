@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Queue()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Queue\n
+comment1.params=
+comment1.target=boolean\ isEmpty()
+comment1.text=\n\ Test\ if\ the\ queue\ is\ logically\ empty.\n\ @return\ true\ if\ empty,\ false\ otherwise.\n
+comment2.params=item
+comment2.target=void\ enqueue(java.lang.Object)
+comment2.text=\n\ Insert\ a\ new\ item\ into\ the\ queue.\n\ @param\ item\ the\ item\ to\ insert.\n
+comment3.params=
+comment3.target=java.lang.Object\ dequeue()
+comment3.text=\n\ Return\ and\ remove\ the\ least\ recently\ inserted\ item\n\ from\ the\ queue.\n\ @return\ the\ least\ recently\ inserted\ item\ in\ the\ queue.\n\ @throws\ UnderflowException\ if\ the\ queue\ is\ empty.\n
+comment4.params=x
+comment4.target=int\ increment(int)
+comment4.text=\n\ Internal\ method\ to\ increment\ with\ wraparound.\n\ @param\ x\ any\ index\ in\ theArray's\ range.\n\ @return\ x+1,\ or\ 0\ if\ x\ is\ at\ the\ end\ of\ theArray.\n
+comment5.params=
+comment5.target=void\ doubleQueue()
+comment5.text=\n\ Internal\ method\ to\ expand\ theArray.\n
+numComments=6

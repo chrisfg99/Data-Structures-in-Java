@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Stack()
+comment0.text=\n\ Construct\ the\ stack.\n
+comment1.params=
+comment1.target=java.lang.Object\ pop()
+comment1.text=\n\ Remove\ the\ most\ recently\ inserted\ item\ in\ the\ stack.\n\ @return\ the\ most\ recently\ inserted\ item\ in\ the\ stack.\n\ @throws\ UnderflowException\ if\ the\ stack\ is\ empty.\n
+comment2.params=newElement
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\n\ Insert\ a\ new\ item\ into\ the\ stack.\n\ @param\ newElement\ the\ item\ to\ insert.\n
+numComments=3
